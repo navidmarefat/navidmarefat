@@ -6,7 +6,8 @@
 - 📫 How to reach me:
 
 🌐 Socials:
-https://linkedin.com/in/Navid Marefat golzar
+
+https://www.linkedin.com/in/navid-marefat-golzar-5664a8283
 <!---
 navidmarefat/navidmarefat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
