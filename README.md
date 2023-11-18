@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on frontend web projects.
 - 📫 How to reach me:
 - Emai:navidmarefat99@gmail.com
-- linkedin:linkedin.com/in/navid-marefat-golzar-5664a8283
+- linkedin: linkedin.com/in/navid-marefat-golzar-5664a8283
 
 <!---
 navidmarefat/navidmarefat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
