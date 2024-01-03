@@ -2,7 +2,7 @@
 - 🌍  I'm based in Iran
 - 👀 I’m interested in websites  
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on frontend web projects.
+- 💞️ I’m looking to cooperate on frontend web projects.
 - 📫 How to reach me:
 
 🌐 Socials:
